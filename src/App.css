@@ -1,0 +1,12 @@
+body{
+  background-color: #eee;
+}
+
+#root{
+  overflow-y: hidden;
+}
+
+/* .product-list-section{
+  max-height: 600px;
+    overflow-y: scroll;
+} */

@@ -1,0 +1,33 @@
+.header-container {
+  width: 100%;
+  height: 70px;
+  background-color: darkgray;
+  display: flex;
+}
+
+.shopping-cart {
+  width: 30px;
+  height: 40px;
+  position: absolute;
+  right: 10%;
+  top: 2%;
+}
+
+.title {
+  display: inline-block;
+  padding-left: 20px;
+}
+
+.product-count {
+  display: flex;
+  width: 25px;
+  height: 25px;
+  background: wheat;
+  position: absolute;
+  top: 1%;
+  right: 9%;
+  z-index: 2;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+}
